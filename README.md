@@ -4,7 +4,7 @@
 
 Another App I build while learning Flutter from Angela Yu on Udemy Platform. 
 
-Here is the demo -
+Here is the demo -<br>
 <img src="demo.gif" width="320" height="600" /> 
 <br>
 <img src="image1.PNG" width="320" height="600" />  
