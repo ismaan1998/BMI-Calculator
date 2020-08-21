@@ -5,7 +5,11 @@
 Another App I build while learning Flutter from Angela Yu on Udemy Platform. 
 
 Here is the demo -
-<img src="demo.gif" width="340" height="600" /> <img src="image1.PNG" width="340" height="600" />  <img src="image2.PNG" width="340" height="600" /> 
+<img src="demo.gif" width="320" height="600" /> 
+<br>
+<img src="image1.PNG" width="320" height="600" />  
+<br>
+<img src="image2.PNG" width="320" height="600" /> 
 
 
 
